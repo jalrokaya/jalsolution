@@ -119,7 +119,7 @@ body {
 .intro {
   padding: 50px 20px;
   text-align: center;
-  background-color: #007BFF;
+  background-color: #e65c00;
   color: #fff;
 }
 
@@ -260,11 +260,6 @@ footer {
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
-
-
-
-
-
   .cta-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -272,7 +267,6 @@ footer {
   gap: 15px;
   margin-top: 20px;
 }
-
 .cta-button {
   display: inline-block;
   padding: 12px 24px;
@@ -294,5 +288,4 @@ footer {
     align-items: center;
   }
 }
-
 }
