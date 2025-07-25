@@ -86,7 +86,7 @@ body {
 }
 
 .cta-button:hover {
-  background-color: ;
+  background-color: #0097a7;
 }
 
 /* Slider */
@@ -119,7 +119,7 @@ body {
 .intro {
   padding: 50px 20px;
   text-align: center;
-  background-color: #00bcd4;
+  background-color: ;
   color: #fff;
 }
 
